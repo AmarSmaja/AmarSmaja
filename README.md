@@ -1,13 +1,12 @@
 <h2>Hello👋🏻, I'm Smaic Amar!</h2>
-<p><em>Full-stack Developer</em></p>
+<p><em>Full-stack Developer and API enthusiast.</em></p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🤔 &nbsp; Exploring new technologies to add to my skillset.
+- 🎓 &nbsp; Learning and mastering APIs.
+- 💼 &nbsp; Scripting my own FiveM servers.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
