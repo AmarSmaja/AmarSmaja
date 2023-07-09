@@ -28,7 +28,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ---
-<!--START_SECTION:waka-->
 
 📊 **This week I spent my time on** 
 
