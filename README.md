@@ -1,13 +1,3 @@
-<h2>Hello👋🏻, I'm Smaic Amar!</h2>
-<p><em>Full-stack Developer and API enthusiast.</em></p>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies to add to my skillset.
-- 🎓 &nbsp; Learning and mastering APIs.
-- 💼 &nbsp; Scripting my own FiveM servers.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
